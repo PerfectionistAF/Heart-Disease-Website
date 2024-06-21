@@ -1,0 +1,67 @@
+.Resultcontainer {
+  /* 
+    margin-top: 0px;
+    
+    background-color:#292929;
+    background-color:#2c2c2c;
+    background-size: cover;
+    background-position:center ; 
+    height: 800px; */
+  text-align: center;
+  background-image: url("../../../public/images/Home/OIP5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  height: 400px;
+
+  padding-top: 20px;
+  padding-bottom: 20%;
+}
+
+.Resulttitle {
+  margin-top: -4%;
+  font-weight: bolder;
+  font-size: 70px;
+  color: #eb5424;
+  font-style: italic;
+  padding-top: 7%;
+}
+
+.Resultoutput {
+  font-size: 40px;
+  color: #ccc;
+}
+
+
+.result-container {
+  background-color: #2c2c2c;
+  padding: 20px;
+  border-radius: 8px;
+  color: #fff;
+}
+
+
+
+
+.Result {
+  color: #fff;
+  padding: 30px;
+  font-size: 30px;
+
+}
+
+
+.Edit_button {
+  margin-top: 5%;
+  margin-left: 0%;
+  padding: 8px 30px;
+  background-color: #4c4c4c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Edit_button:hover {
+  background-color: #666;
+}

@@ -1,0 +1,49 @@
+.New_Patient_Form
+{
+  background-image: url("../../../public/images/Home/OIP5.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center ;
+    height: 700px;
+    padding-top: 20px;
+    padding-bottom: 20%;
+}
+
+
+#NPatientname
+{
+  width: 100%;
+}
+#NPatientnumber
+{
+  width: 100%;
+}
+#Nbirthdate
+{
+  width: 100%;
+}
+#NPatientAddress
+{
+  width: 100%;
+}
+
+
+#Patientdataform
+{
+
+    margin-left: 10%;
+}
+
+#newlabel
+{
+    font-size: 25px;
+    background-color:#808080;
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: 20px;
+    font-weight: bold;
+}

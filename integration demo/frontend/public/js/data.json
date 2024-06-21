@@ -1,0 +1,84 @@
+{
+    
+    "patients" : [
+        {
+            "id" : 1,
+            "patient": "Patient 1"
+        },
+        {
+            "id" : 2,
+            "patient": "Patient 2"
+        },
+        {
+            "id" : 3,
+            "patient": "Patient 3"
+        },
+        {
+            "id" : 4,
+            "patient": "Patient 4"
+        },
+        {
+            "id" : 5,
+            "patient": "Patient 5"
+        },
+        {
+            "id" : 6,
+            "patient": "Patient 6"
+        },
+        {
+            "id" : 7,
+            "patient": "Patient 7"
+        },
+        {
+            "id" : 8,
+            "patient": "Patient 8"
+        },
+        {
+            "id" : 9,
+            "patient": "Patient 9"
+        },
+        {
+            "id" : 10,
+            "patient": "Patient 10"
+        },
+        {
+            "id" : 11,
+            "patient": "Patient 11"
+        },
+        {
+            "id" :12,
+            "patient": "Patient 12"
+        },
+        {
+            "id" : 13,
+            "patient": "Patient 13"
+        },
+        {
+            "id" : 14,
+            "patient": "Patient 14"
+        },
+        {
+            "id" : 15,
+            "patient": "Patient 15"
+        },
+        {
+            "id" : 16,
+            "patient": "Patient 16"
+        },
+        {
+            "id" : 17,
+            "patient": "Patient 17"
+        }
+    ],
+
+   
+    "results" : [
+       
+        {
+            "id" : 2,
+            "output": "Negative"
+        }
+
+    ]
+
+      }
