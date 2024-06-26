@@ -1,0 +1,9 @@
+.Parentcl {
+    background-image: url("../../../public/images/Home/OIP5.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 2500px;
+    padding-top: 20px;
+    padding-bottom: 20%;
+}

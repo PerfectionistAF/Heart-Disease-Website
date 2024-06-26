@@ -1,0 +1,43 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+.DS_Store
+/frontend/.env
+
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+logs.log
+
+
+
+
+backend/core/users/machine learning models/resnet50_ii_images.keras
+
+backend/core/users/machine learning models/resnet50_v6_images.keras
+
+backend/core/users/machine learning models/resnet50_vz_images.keras
+
+backend/core/users/machine learning models/laddernet_model.keras
+
+backend/core/users/machine learning models/LinearRegressionClassificationModel_old.pkl
+backend/core/users/machine learning models/best_logistic_regression_model.joblib
+backend/core/users/machine learning models/gradient_boost_model.sav
+backend/core/media/ecg/input
+
+backend/core/media/ecg/output
+
+backend/core/media/videos
